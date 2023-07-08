@@ -10,4 +10,4 @@
 [![Amir's github stats](https://github-readme-stats.vercel.app/api?username=AmirIdris)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+[![Amir Edris Linkedin](https://www.linkedin.com/in/amir-edris-8162181a5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVqQyRH54SuCX1VfeEQ%2FIzQ%3D%3D)
