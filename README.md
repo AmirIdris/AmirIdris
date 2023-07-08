@@ -6,5 +6,8 @@
 - 📫 Take a look to my Projects : https://github.com/AmirIdris
 - 📫 How to reach me: amaedris1@gmail.com
 
+  #### Github Stats 📊
+[![Amir's github stats](https://github-readme-stats.vercel.app/api?username=AmirIdris)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
